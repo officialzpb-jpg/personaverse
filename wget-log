@@ -1,0 +1,6 @@
+--2026-02-26 06:23:41--  https://drive.google.com/uc?export=download
+Resolving drive.google.com (drive.google.com)... 142.251.45.206, 2607:f8b0:4006:802::200e
+Connecting to drive.google.com (drive.google.com)|142.251.45.206|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2026-02-26 06:23:41 ERROR 400: Bad Request.
+
